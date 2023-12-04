@@ -24,7 +24,7 @@
 
 - **Gyumri information technologies center (GITC)**
   *Web Development Program - 2022-2023*
-  - Studied HTML, CSS, and JavaScript.
+  - Studied HTML, CSS,  JavaScript and computer engineering .
 
 
 ---
