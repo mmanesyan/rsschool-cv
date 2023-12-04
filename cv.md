@@ -6,7 +6,7 @@
 ## Contact Information
 - **Email:** manemanesyan062@gmail.com
 - **Phone:** +374-93-36-44-12
-- **LinkedIn:** [linkedin.com/in/johndoe](https://www.linkedin.com/in/mane-manesyan)
+- **LinkedIn:** [linkedin.com/in/mane-manesyan](https://www.linkedin.com/in/mane-manesyan)
 - **GitHub:** [github.com/mmanesyan](https://github.com/mmanesyan)
 
 ---
